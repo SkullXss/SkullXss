@@ -20,6 +20,6 @@ Estas são algumas das ferramentas e linguagens que domino:
 
 Estou sempre aberto para colaborações emocionantes e novas amizades no mundo da tecnologia. Vamos trabalhar juntos para fazer a internet um lugar mais seguro e empolgante! 😄
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/skull.xss?igshid=OGQ5ZDc2ODk2ZA==)
+[![TikTok](https://img.shields.io/badge/-TikTok-%23FF0000?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@skull.ddos)
 [![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github)](https://github.com/SkullXss)
 ## Vamos Codar Juntos? 🚀
